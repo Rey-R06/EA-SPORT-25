@@ -19,7 +19,13 @@ header{
 }
 
 .logo{
+    min-width: 150px;
     margin: 15px;
+}
+
+.menu{
+    visibility: hidden;
+    display: none;
 }
 
 nav ul, nav{
@@ -87,6 +93,7 @@ main .infoPrincipal{
     border-radius: 50px;
 }
 .video video{
+    min-width: 250px;
     border-radius: 50px;
 }
 

@@ -19,7 +19,13 @@ header{
 }
 
 .logo{
+    min-width: 150px;
     margin: 15px;
+}
+
+.menu{
+    visibility: hidden;
+    display: none;
 }
 
 nav ul, nav{
