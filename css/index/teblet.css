@@ -24,9 +24,11 @@ nav ul{
     padding: 10px 0;
 }
 
+
 ul a{
     width: 150px;
     padding: 10px;
+    transition: none; 
 }
 
 

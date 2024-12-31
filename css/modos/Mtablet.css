@@ -32,6 +32,7 @@ nav ul{
 ul a{
     width: 150px;
     padding: 10px;
+    transition: none; 
 }
 
 .infoPrincipal img{
